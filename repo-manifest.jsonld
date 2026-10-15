@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/pytest-remotedata/commit/5e6bbf150cd6c47dc05b6db28d787fecf952edd2",
       "git:hexsha": "5e6bbf150cd6c47dc05b6db28d787fecf952edd2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T20:31:59.752297+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/pytest-remotedata/commit/6bbbdc17b9c977ed7de5d91210893b9ab4ea89df",
